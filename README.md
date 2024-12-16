@@ -8,9 +8,10 @@
 
 ##### The supplementary files are issued:
 
-1) Pre-Recorded Presentation Video - 
-2) Presentation Slides - 
-3) Project Report - 
-4) Project Dataset - 
-5) Project Code Demo Video -
+1) Pre-Recorded Presentation Video - https://youtu.be/Dj4vhlTTnkA
+2) Presentation Slides - https://umich-my.sharepoint.com/:p:/g/personal/jamievaz_umich_edu/EXIKU8WJ1PpCqhBrrrmicK8BP96_D4BEVVEcjo8YcUL6yQ?e=5DsbFJ
+3) Project Report - https://umich-my.sharepoint.com/:b:/g/personal/jamievaz_umich_edu/Eewh7WJn55NFj8QQov5gTjsBi3yozbfEgaryu0f0v3PUpA?e=lyYFmI
+4) Project Dataset (_Warning: It is 71.11 GB of original Images and Processed Images_) - 
+5) Project Code Demo Video - https://youtu.be/l7TN3OLYdzE
+6) Project Google Drive - https://umich-my.sharepoint.com/:f:/g/personal/jamievaz_umich_edu/Eg3epmv8gyJJlvLx-UbxrkkB8YBJt_B0lengkf5G-M4-zQ?e=1sf9Ts
 
